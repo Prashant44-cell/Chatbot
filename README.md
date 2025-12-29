@@ -1,4 +1,4 @@
-*Introduction*
+<h2>Introduction</h2><br>
 Overview of the project as a command-line AI assistant
 Purpose and educational value
 Technology stack (Python + Ollama + Phi-3)
