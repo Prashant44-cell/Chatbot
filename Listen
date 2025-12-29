@@ -1,0 +1,11 @@
+import pyttsx3
+
+engine = pyttsx3.init()
+engine.say("Hello how are you ")
+engine.runAndWait()
+engine.say("I am a chatbot developed by Prashant Gupta")
+
+# if engine.run:
+#     print("Successfully running ")
+# else:
+#     print("Error occurs")
